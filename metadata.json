@@ -1,0 +1,6 @@
+{
+  "name": "Trading AI - Crypto Exchange & AI Prediction Terminal",
+  "description": "Advanced cryptocurrency exchange with real-time AI price predictions, live crypto news sentiment analysis, Demo paper trading with $100,000 virtual balance, 125x Futures, Spot, and AI Grid Trading Bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
