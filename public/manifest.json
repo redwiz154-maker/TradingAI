@@ -1,0 +1,22 @@
+{
+  "name": "Trading AI - Crypto Exchange Pro",
+  "short_name": "Trading AI",
+  "description": "Advanced AI-powered cryptocurrency exchange with real-time price predictions, live crypto news sentiment, Demo paper trading with $100k balance, 125x Futures, Spot, and AI Grid Trading Bots.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b0e11",
+  "theme_color": "#F0B90B",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23181a20' rx='100'/%3E%3Cpath d='M256 64L140 180L182 222L256 148L330 222L372 180L256 64Z' fill='%23F0B90B'/%3E%3Cpath d='M64 256L180 140L222 182L148 256L222 330L180 372L64 256Z' fill='%23F0B90B'/%3E%3Cpath d='M448 256L332 372L290 330L364 256L290 182L332 140L448 256Z' fill='%23F0B90B'/%3E%3Cpath d='M256 448L372 332L330 290L256 364L182 290L140 332L256 448Z' fill='%23F0B90B'/%3E%3Cpath d='M256 196L196 256L256 316L316 256L256 196Z' fill='%23F0B90B'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23181a20' rx='100'/%3E%3Cpath d='M256 64L140 180L182 222L256 148L330 222L372 180L256 64Z' fill='%23F0B90B'/%3E%3Cpath d='M64 256L180 140L222 182L148 256L222 330L180 372L64 256Z' fill='%23F0B90B'/%3E%3Cpath d='M448 256L332 372L290 330L364 256L290 182L332 140L448 256Z' fill='%23F0B90B'/%3E%3Cpath d='M256 448L372 332L330 290L256 364L182 290L140 332L256 448Z' fill='%23F0B90B'/%3E%3Cpath d='M256 196L196 256L256 316L316 256L256 196Z' fill='%23F0B90B'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
